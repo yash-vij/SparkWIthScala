@@ -1,0 +1,513 @@
+Skip to content
+geeksforgeeks
+Courses
+Tutorials
+Jobs
+Practice
+Contests
+
+
+Y
+
+Y
+
+ My Profile	 Edit Profile
+ My Courses	 Go Premium
+ Transactions	 Logout
+Home
+Saved Videos
+Courses
+Data Structures and Algorithms
+ML & Data Science
+Web Development
+Languages
+Interview Corner
+CS Subjects
+Jobs
+Practice
+Contests
+GBlog
+Puzzles
+What's New ?
+ Change Language
+
+90% Refund @Courses
+Trending Now
+Data Structures & Algorithms
+Foundational Courses
+Data Science
+Practice Problem
+Python
+Machine Learning
+System Design
+Django
+DevOps Tutorial
+Java
+JavaScript
+C
+C++
+ReactJS
+NodeJS
+Web Development
+Web Design
+Web Browser
+CP Live
+Aptitude
+Puzzles
+Projects
+
+Related Articles
+Explore Our Geeks Community
+Share Your Experience
+Overview
+Scala Programming Language
+Introduction to Scala
+Setting up the environment in Scala
+Hello World in Scala
+Basics
+Control Statements
+OOP Concepts
+Methods
+Strings
+Scala Packages
+Scala Trait
+Collections
+Coding for EveryoneCourse
+Explore Our Geeks Community
+Share Your Experience
+Overview
+Scala Programming Language
+Introduction to Scala
+Setting up the environment in Scala
+Hello World in Scala
+Basics
+Control Statements
+OOP Concepts
+Methods
+Strings
+Scala Packages
+Scala Trait
+Collections
+Coding for EveryoneCourse
+Scala Programming Language
+Read
+Practice
+Scala TutorialScala is a general-purpose, high-level, multi-paradigm programming language. It is a pure object-oriented programming language which also provides support to the functional programming approach. Scala programs can convert to bytecodes and can run on the JVM (Java Virtual Machine). Scala stands for Scalable language. It also provides Javascript runtimes. Scala is highly influenced by Java and some other programming languages like Lisp, Haskell, Pizza etc.
+Recent Articles on Scala !
+Overview, Basics, Control Statements, OOP Concepts, Parameterized – Type, Exceptions, Scala Annotation, Methods, String, Scala Packages, Scala Trait, Collections, Scala Options, Miscellaneous Topics  
+Overview
+Introduction to Scala
+Interesting fact about Scala
+Setting up the environment in Scala
+How to install Scala in Linux?
+How to install Scala in Windows?
+What makes Scala scalable?
+Hello World in Scala
+Scala | Uniform Access Principle
+Scala vs Java
+Python vs Scala
+Difference between Kotlin and Scala
+Scala | REPL
+Basics
+Scala Keywords
+Scala Identifiers
+Data Types in Scala
+Variables in Scala
+Scala Console | println, printf and readLine
+Scala Identifiers
+Scala | Pattern Matching
+Comments In Scala
+Command Line Argument in Scala
+Enumeration in Scala
+Scope of Variables In Scala
+Scala | Ranges
+Control Statements
+Scala | Decision Making
+Scala | Loops(while, do..while, for, nested loops)
+For Loop in Scala
+while and do while Loop in Scala
+Break statement in Scala
+Scala | Literals
+Scala | yield Keyword
+Scala | Type Inference
+OOP Concepts
+Class and Object in Scala
+Inner class in Scala
+Inheritance in Scala
+Operators in Scala
+Operators Precedence in Scala
+Abstract Classes in Scala
+Singleton and Companion Objects
+Generic Classes in Scala
+Access Modifiers in Scala
+Scala Constructors
+Scala | Primary Constructor
+Scala | Auxiliary Constructor
+Calling A Super Class Constructor in Scala
+Extending a Class in Scala
+Scala | Case Class and Case Object
+Scala | Polymorphism
+Value classes
+Scala | Field Overriding
+Scala | Abstract Type members
+Type Casting in Scala
+Object Casting in Scala
+Object Equality in Scala
+Scala | Multithreading
+Scala | Final
+Scala this keyword
+Scala | Controlling visibility of constructor fields
+Parameterized – Type
+Scala Type Hierarchy
+Scala | Lower Bound
+Scala | Upper bound
+Scala | Variances
+Scala | Null, null, Nil, Nothing, None, and Unit
+Exceptions
+Scala | Exception Handling
+Throw Keyword in Scala
+Scala | Try-Catch Exceptions
+Scala | Finally Exceptions
+Scala | Either
+Scala Annotation
+Scala | Annotation
+Scala | Self types Annotation
+Methods
+Scala | Functions – Basics
+Currying Functions in Scala with Examples
+Anonymous Functions in Scala
+Higher Order Functions in Scala
+Scala | Named Arguments
+Scala | Functions Call-by-Name
+Scala | Closures
+Scala | Nested Functions
+Parameterless Method in Scala
+Recursion in Scala
+Tail Recursion in Scala
+Scala | Partially Applied functions
+Method Overloading in Scala
+Method Overriding in Scala
+Scala | Method Invocation
+Scala | Format and Formatted Method
+Controlling Method Scope In Scala
+Scala | Repeated Method Parameters
+Partial Functions in Scala
+Lambda Expression in Scala
+Scala Varargs
+Scala | Function Composition
+Call a method on a Super Class in Scala
+Implicit Conversions in Scala
+String
+Scala String
+Scala | String Interpolation
+Scala | StringContext
+Regular Expressions in Scala
+StringBuilder in Scala
+String concatenation in Scala
+Scala Packages
+Packages In Scala
+Scala | Package Objects
+Chained Package Clauses in Scala
+File Handling in Scala
+Scala Trait
+Scala | Traits
+Scala | Sealed Trait
+Scala | Trait Mixins
+Trait Linearization in Scala
+Scala | Trait App
+Difference Between Traits and Abstract Classes in Scala
+Scala Trait Traversable | Set-1
+Scala Trait Traversable | Set-2
+Scala Trait Traversable | Set-3
+Scala Trait Traversable | Set-4
+Collections
+Scala Lists
+Scala ListBuffer
+ListSet in Scala
+Scala | Arrays
+Multidimensional Arrays in Scala
+Scala | Create Array with Range
+Scala | ArrayBuffer
+Scala | Tuple
+Set in Scala | Set-1
+Set in Scala | Set-2
+BitSet in Scala
+HashSet In Scala
+Stack in Scala
+HashMap in Scala
+ListMap in Scala
+TreeSet in Scala
+Scala | Reduce, fold or scan
+Iterators in Scala
+Map
+Scala Map
+Scala | Methods to Call on a Map | Set-1
+Scala | map() method
+Scala Options
+Scala | Option
+Scala | Methods to Call Option
+Scala | unapplySeq() method
+Miscellaneous Topics
+Getters and Setters in Scala
+Scala Extractors
+Scala For Comprehensions
+Scala | Sequence Comprehensions
+The Factory Pattern in Scala
+Scala | Lazy Evaluation
+Monads in Scala
+Lazy val and Infinite Sequences in Scala
+Scala Stream
+Recursive Streams and collection in Scala
+Placeholder Syntax in Scala
+Scala | Sieve of Eratosthenes
+Using Extractors with Pattern Matching In Scala
+Overriding Accessors and Mutators in Scala
+
+Whether you're preparing for your first job interview or aiming to upskill in this ever-evolving tech landscape, GeeksforGeeks Courses are your key to success. We provide top-quality content at affordable prices, all geared towards accelerating your growth in a time-bound manner. Join the millions we've already empowered, and we're here to do the same for you. Don't miss out - check it out now!
+
+
+Last Updated : 11 Dec, 2023
+
+2
+
+Next
+Introduction to Scala
+Share your thoughts in the comments
+
+Add Your Comment
+Similar Reads
+Scala short <(x: Short): Boolean
+Scala short <(x: Char): Boolean
+Scala Extractors
+Scala | Partially Applied functions
+Scala String indexOf(String str) method with example
+Scala String contentEquals() method with example
+Scala Keywords
+Scala Int /(x: Int) method with example
+Scala Int /(x: Short) method with example
+Program to print Java Set of characters in Scala
+https://media.geeksforgeeks.org/auth/avatar.png
+GeeksforGeeks
+Article Tags :
+Scala 
+Scala
+Additional Information
+Trending in News
+View More
+10 Best ChatGPT Prompts for Novel and Fiction Book Writing
+Top 10 AI-Powered Music Mixing Tools for Musicians and Producers
+10 Best ChatGPT Prompts to Streamline Project Management
+How to Use ChatGPT in Telegram: Easy & Quick Methods
+30 OOPs Interview Questions and Answers (2024)
+course-img
+13k+ interested Geeks
+Coding for Everyone
+Explore
+course-img
+179k+ interested Geeks
+DSA to Development: A Complete Guide
+Explore
+course-img
+220k+ interested Geeks
+Complete Machine Learning & Data Science Program
+Explore
+geeksforgeeks-footer-logo
+A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 201305
+GFG App on Play Store
+GFG App on App Store
+Company
+About Us
+Legal
+Careers
+In Media
+Contact Us
+Advertise with us
+GFG Corporate Solution
+Placement Training Program
+Apply for Mentor
+Explore
+Job-A-Thon Hiring Challenge
+Hack-A-Thon
+GfG Weekly Contest
+Offline Classes (Delhi/NCR)
+DSA in JAVA/C++
+Master System Design
+Master CP
+GeeksforGeeks Videos
+Geeks Community
+Languages
+Python
+Java
+C++
+PHP
+GoLang
+SQL
+R Language
+Android Tutorial
+Tutorials Archive
+DSA
+Data Structures
+Algorithms
+DSA for Beginners
+Basic DSA Problems
+DSA Roadmap
+Top 100 DSA Interview Problems
+DSA Roadmap by Sandeep Jain
+All Cheat Sheets
+Data Science & ML
+Data Science With Python
+Data Science For Beginner
+Machine Learning Tutorial
+ML Maths
+Data Visualisation Tutorial
+Pandas Tutorial
+NumPy Tutorial
+NLP Tutorial
+Deep Learning Tutorial
+HTML & CSS
+HTML
+CSS
+Web Templates
+CSS Frameworks
+Bootstrap
+Tailwind CSS
+SASS
+LESS
+Web Design
+Python
+Python Programming Examples
+Django Tutorial
+Python Projects
+Python Tkinter
+Web Scraping
+OpenCV Python Tutorial
+Python Interview Question
+Computer Science
+GATE CS Notes
+Operating Systems
+Computer Network
+Database Management System
+Software Engineering
+Digital Logic Design
+Engineering Maths
+DevOps
+Git
+AWS
+Docker
+Kubernetes
+Azure
+GCP
+DevOps Roadmap
+Competitive Programming
+Top DS or Algo for CP
+Top 50 Tree
+Top 50 Graph
+Top 50 Array
+Top 50 String
+Top 50 DP
+Top 15 Websites for CP
+System Design
+High Level Design
+Low Level Design
+UML Diagrams
+Interview Guide
+Design Patterns
+OOAD
+System Design Bootcamp
+Interview Questions
+JavaScript
+JavaScript Examples
+TypeScript
+ReactJS
+NextJS
+AngularJS
+NodeJS
+Lodash
+Web Browser
+NCERT Solutions
+Class 12
+Class 11
+Class 10
+Class 9
+Class 8
+Complete Study Material
+School Subjects
+Mathematics
+Physics
+Chemistry
+Biology
+Social Science
+English Grammar
+Commerce
+Accountancy
+Business Studies
+Economics
+Management
+HR Management
+Finance
+Income Tax
+UPSC Study Material
+Polity Notes
+Geography Notes
+History Notes
+Science and Technology Notes
+Economy Notes
+Ethics Notes
+Previous Year Papers
+SSC/ BANKING
+SSC CGL Syllabus
+SBI PO Syllabus
+SBI Clerk Syllabus
+IBPS PO Syllabus
+IBPS Clerk Syllabus
+SSC CGL Practice Papers
+Colleges
+Indian Colleges Admission & Campus Experiences
+List of Central Universities - In India
+Colleges in Delhi University
+IIT Colleges
+NIT Colleges
+IIIT Colleges
+Companies
+META Owned Companies
+Alphabhet Owned Companies
+TATA Group Owned Companies
+Reliance Owned Companies
+Fintech Companies
+EdTech Companies
+Preparation Corner
+Company-Wise Recruitment Process
+Resume Templates
+Aptitude Preparation
+Puzzles
+Company-Wise Preparation
+Exams
+JEE Mains
+JEE Advanced
+GATE CS
+NEET
+UGC NET
+More Tutorials
+Software Development
+Software Testing
+Product Management
+SAP
+SEO - Search Engine Optimization
+Linux
+Excel
+Free Online Tools
+Typing Test
+Image Editor
+Code Formatters
+Code Converters
+Currency Converter
+Random Number Generator
+Random Password Generator
+Write & Earn
+Write an Article
+Improve an Article
+Pick Topics to Write
+Share your Experiences
+Internships
+@GeeksforGeeks, Sanchhaya Education Private Limited, All rights reserved
+Lightbox
