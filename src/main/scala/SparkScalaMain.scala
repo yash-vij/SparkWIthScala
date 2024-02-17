@@ -2,7 +2,7 @@ import org.apache.spark.sql.SparkSession
 import SparkCreation._
 import WordCheck._
 import scala.io.StdIn.readLine
-object SparkScala {
+object SparkScalaMain {
   def main(args: Array[String]): Unit = {
     val spark = SparkCreation.SparkInitial("MyApp")
     val location = "src/main/resources"
