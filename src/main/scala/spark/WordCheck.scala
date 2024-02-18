@@ -1,3 +1,5 @@
+package spark
+
 import org.apache.spark.sql.Dataset
 
 object WordCheck {
