@@ -1,3 +1,5 @@
+package spark
+
 import org.apache.spark.sql.SparkSession
 object SparkCreation {
   def SparkInitial(appName: String): SparkSession = {
