@@ -8,5 +8,6 @@ object WordCount {
     val words = lines.map(l =>(l,1))
     val wordsCount = words.reduceByKey(_ + _)
     wordsCount.foreach(println)
+
     }
 }

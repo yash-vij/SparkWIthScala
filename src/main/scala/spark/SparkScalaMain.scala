@@ -1,5 +1,7 @@
 package spark
 import WordCount._
+import caseClassFiles.Person
+
 object SparkScalaMain extends App{
 
     val spark = SparkCreation.SparkInitial("MyApp")
@@ -23,7 +25,11 @@ object SparkScalaMain extends App{
     //Count each word
     println("Count of each word is : "+WordCount(data))
 
+    //Creating a DataSet
+    val caseClassDS = spark.createDataFrame(Seq(Person("Andy", 32)))
+    caseClassDS.show()
 
-
-
+    val peopleData = spark.sparkContext.textFile(s"$location/people.txt")
+    val peopleDF = spark.createDataFrame(peopleData.map(_.split(",")).map(data => Person(data(0),data(1).trim.toInt)))
+    peopleDF.show()
 }
