@@ -1,4 +1,4 @@
-package spark
+package sparkScala
 
 import org.apache.spark.rdd.RDD
 
