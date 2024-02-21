@@ -8,6 +8,7 @@ import UDFs.MyFirstUDF._
 import UDFs.ParameterUDF.{oneParaUDF, twoParaUDF}
 import org.apache.spark._
 
+
 object SparkScalaMain extends App{
 
     val spark = SparkCreation.SparkInitial("MyApp")
@@ -68,6 +69,39 @@ object SparkScalaMain extends App{
     println("UDF with 2 parameter : ")
     spark.udf.register("twoParaUDF",twoParaUDF)
     spark.sql("select twoParaUDF('Testing',1)").show()
+
+    //Read CSV file
+    val csvData = spark.read.option("delimiter",";").option("header",true).csv(s"$location/people.csv")
+    csvData.show()
+
+    //use Multiple option using map
+    val dfMap = spark.read.options(Map("delimiter"->";","header"->"true")).csv(s"$location/people.csv")
+    dfMap.show()
+
+    //Read Parquet data
+    val parquetData = spark.read.parquet(s"$location/users.parquet")
+    parquetData.show()
+    parquetData.createOrReplaceTempView("users")
+    val parqDF = spark.sql("select * from users")
+    parqDF.show()
+
+
+    //Parquet schema merging
+    println("Parquet schema merging")
+    val rdd1 = spark.sparkContext.makeRDD(1 to 5).map(i => (i,i*i))
+    val rdd1Schema = Seq("values","square")
+    val df1 = spark.createDataFrame(rdd1).toDF(rdd1Schema:_*)
+    //df1.write.parquet("data/test_table/key=1")
+
+
+    val rdd2 = spark.sparkContext.makeRDD(6 to 10).map(i => (i,i*i*i))
+    val rdd2Schema = Seq("values","cube")
+    val df2 = spark.createDataFrame(rdd2).toDF(rdd2Schema:_*)
+    //df2.write.parquet("data/test_table/key=2")
+
+    //val mergeDF = spark.read.option("mergeSchema","true").parquet("data/table")
+    //mergeDF.show()
+
 
 
 }
